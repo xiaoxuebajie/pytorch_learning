@@ -1,10 +1,23 @@
 # pytorch_learning
 Jupyter notebooks about pytorch andlearn from:  
 https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials  
-视频可以在youtube上搜索pytorch第一个就是。  
-持续更新中。。。。。。。
+视频可以在youtube上搜索pytorch第一个就是,自己写的jupyter notebooks持续更新中。。。。。。。
   
-1. gpu_accelerate
-2. autograd_demo
-3. test
-4.
+01. gpu_accelerate
+02. autograd_demo
+03. test
+04. sd-demo
+05. data type
+06. create tensor
+07. index and slice
+08. dimension transformation
+09. stitching and splitting
+10. math operation
+11. statistics
+12. advanced operation
+13. activation fuction
+14. loss functions
+15. perceptron
+16. chain rules and Multi-Layer Perceptron
+17. 2D function optimization
+
