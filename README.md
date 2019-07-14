@@ -20,4 +20,9 @@ https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials
 15. perceptron
 16. chain rules and Multi-Layer Perceptron
 17. 2D function optimization
-
+18. cross entropy
+19. multi-classification
+20. full connection layer
+21. activation function and GPU accelerate
+22. visdom
+23. overfitting and underfitting
