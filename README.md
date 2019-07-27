@@ -1,28 +1,27 @@
 # pytorch_learning
 Jupyter notebooks about pytorch andlearn from:  
 https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials  
-视频可以在youtube上搜索pytorch第一个就是,自己写的jupyter notebooks持续更新中。。。。。。。
+视频可以在youtube上搜索pytorch第一个就是,为了方便自己记录学习过程，以及帮助其他人更好的学习pytorch，我自己写了jupyter notebooks  
+现在还在持续更新中。。。。。。。
   
-01. gpu_accelerate
-02. autograd_demo
-03. test
-04. sd-demo
-05. data type
-06. create tensor
-07. index and slice
-08. dimension transformation
-09. stitching and splitting
-10. math operation
-11. statistics
-12. advanced operation
-13. activation fuction
-14. loss functions
-15. perceptron
-16. chain rules and Multi-Layer Perceptron
-17. 2D function optimization
-18. cross entropy
-19. multi-classification
-20. full connection layer
-21. activation function and GPU accelerate
-22. visdom
-23. overfitting and underfitting
+01. 初见Pyroch
+02. 梯度下降
+03. MNIST实战
+04. 数据类型
+05. 创建Tensor
+06. 索引与切片
+07. 维度变换
+08. 合并与分割
+09. 数学运算
+10. 统计
+11. 高阶操作
+12. 激活函数与损失函数
+13. 二维函数优化
+14. 感知机
+15. 交叉熵
+16. 多分类问题
+17. 全连接层
+18. 激活函数与GPU加速
+19. visdom可视化
+20. 过拟合与欠拟合
+21. 正则化
