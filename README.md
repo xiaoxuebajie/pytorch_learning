@@ -1,8 +1,7 @@
 # pytorch_learning
 Jupyter notebooks about pytorch andlearn from:  
 https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials  
-视频可以在youtube上搜索pytorch第一个就是,为了方便自己记录学习过程，以及帮助其他人更好的学习pytorch，我自己写了jupyter notebooks  
-现在还在持续更新中。。。。。。。
+视频可以在youtube上搜索pytorch第一个就是,为了方便自己记录学习过程，以及帮助其他人更好的学习pytorch，我自己写了jupyter notebooks，现在还在持续更新中。。。。。。。
   
 01. 初见Pyroch
 02. 梯度下降
